@@ -1,2 +1,1 @@
-#!/bin/bash
-$ wc -l file
+Task 0. Where am I?
