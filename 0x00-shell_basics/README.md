@@ -4,3 +4,4 @@ Create a script that creates a directory
 Display current directory contents and group id 
 create long list
 Create dirctory
+move file from directory to another one
