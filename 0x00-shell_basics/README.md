@@ -10,3 +10,4 @@ Remove file from directory
  change directory
 list all files
 print file type 
+creat symbolic 
