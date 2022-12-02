@@ -9,3 +9,4 @@ Remove file from directory
  Remove directory from another directory
  change directory
 list all files
+print file type 
