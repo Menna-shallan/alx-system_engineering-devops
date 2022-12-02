@@ -5,3 +5,4 @@ Display current directory contents and group id
 create long list
 Create dirctory
 move file from directory to another one
+Remove file from directory
