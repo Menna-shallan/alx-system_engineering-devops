@@ -7,3 +7,4 @@ Create dirctory
 move file from directory to another one
 Remove file from directory
  Remove directory from another directory
+ change directory
