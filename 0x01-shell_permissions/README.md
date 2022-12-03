@@ -4,3 +4,4 @@ print effective username
 change the owner
 Creat an empty file
  execute
+Permissions
