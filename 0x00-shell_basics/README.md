@@ -11,3 +11,7 @@ Remove file from directory
 list all files
 print file type 
 creat symbolic 
+file type
+ make directory
+ clean
+move 
