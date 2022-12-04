@@ -6,3 +6,4 @@ Creat an empty file
  execute
 Permissions
 executepermission
+set permissions to other users no per to the owner no per to the group owner
