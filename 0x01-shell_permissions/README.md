@@ -7,3 +7,4 @@ Creat an empty file
 Permissions
 executepermission
 set permissions to other users no per to the owner no per to the group owner
+mirror
