@@ -16,4 +16,7 @@ The file iacta will be in the working directory
 (11)Write a script that counts the number of directories and sub-directories in the current directory
 (12)Create a script that displays the 10 newest filesin the file
 (13)Create a script that takes a list of words as input and prints only words that appear exactly once.
+
+(15)Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+
  
