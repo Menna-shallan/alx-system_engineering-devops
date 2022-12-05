@@ -30,6 +30,9 @@ The file iacta will be in the working directory
 (21)Write a script that reverse its input.
 
 
+(22)Write a script that displays all users and their home directories, sorted by users.
+
+
 
 
 
